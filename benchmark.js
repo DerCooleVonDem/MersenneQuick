@@ -1,6 +1,6 @@
 'use strict';
 
-const MersenneQuick = require('./index.js');
+import MersenneQuick from './index.js';
 
 function detailedBenchmark() {
     const runs = 10;

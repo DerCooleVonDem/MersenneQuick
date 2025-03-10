@@ -19,10 +19,10 @@ npm install mersenne-quick
 
 ## Usage
 
-Require the library and create an instance of `MersenneQuick`:
+Import the library and create an instance of `MersenneQuick`:
 
 ```javascript
-const MersenneQuick = require('mersenne-quick');
+import MersenneQuick from './index.js';
 
 // Create a new generator instance with an optional seed
 const mt = new MersenneQuick(12345);

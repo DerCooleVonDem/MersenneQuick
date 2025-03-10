@@ -1,11 +1,14 @@
 {
   "name": "mersenne-quick",
   "version": "1.0.0",
-  "description": "",
+  "description": "A high-performance Mersenne Twister implementation for JavaScript.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "benchmark": "node benchmark.js",
+    "test": "node test.js"
   },
-  "author": "",
-  "license": "ISC"
+  "keywords": ["mersenne", "twister", "prng", "random", "generator", "quick", "fast", "efficient", "high-performance"],
+  "author": "DerCooleVonDem",
+  "license": "MIT",
+  "type": "module"
 }

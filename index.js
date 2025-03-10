@@ -73,4 +73,4 @@ class MersenneQuick {
   }
 }
 
-module.exports = MersenneQuick;
+export default MersenneQuick;

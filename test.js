@@ -1,4 +1,4 @@
-const MersenneQuick = require('./index.js');
+import MersenneQuick from './index.js';
 
 const mt = new MersenneQuick(1234);
 
