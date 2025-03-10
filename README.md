@@ -56,7 +56,7 @@ console.log('Random Float:', randomFloat);
 A benchmarking script is included to help you test the performance of **MersenneQuick**. To run the benchmark:
 
 ```bash
-node benchmark.js
+node benchmark
 ```
 
 This script will perform multiple runs and output performance metrics such as throughput and execution time.
