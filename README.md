@@ -22,7 +22,7 @@ npm install mersenne-quick
 Import the library and create an instance of `MersenneQuick`:
 
 ```javascript
-import MersenneQuick from './index.js';
+import MersenneQuick from 'mersenne-quick';
 
 // Create a new generator instance with an optional seed
 const mt = new MersenneQuick(12345);
