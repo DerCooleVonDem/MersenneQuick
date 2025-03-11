@@ -1,4 +1,4 @@
-# MersenneQuick
+# MersenneQuick - The fastest javascript mersenne twister in the world. 
 
 **MersenneQuick** is a fast, efficient JavaScript implementation of the Mersenne Twister pseudo-random number generator (PRNG). It leverages modern JavaScript features such as typed arrays and `Math.imul` to deliver high-performance random number generation.
 
