@@ -1,6 +1,6 @@
 {
   "name": "mersenne-quick",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A high-performance Mersenne Twister implementation for JavaScript.",
   "main": "index.js",
   "scripts": {
